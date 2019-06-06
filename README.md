@@ -1,5 +1,5 @@
-# Whats-s-Cooking---Kaggle-Challege
-The What's Cooking Challenge on Kaggle is a 20 label classification problem.  
+#  What's Cooking Kaggle Challenge
+The What's Cooking Challenge on Kaggle.com is a 20 label classification problem.  
 (https://www.kaggle.com/c/whats-cooking/)  
 The datset contains ingredients for 20 different type of cuisines.   
   
